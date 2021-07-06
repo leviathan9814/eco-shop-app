@@ -17,7 +17,7 @@ const Recomendation = () => {
     const dispatch = useDispatch();
 
     useEffect(() => {
-        axios.get("http://localhost:3000/recomendation")
+        axios.get("http://localhost:3001/recomendation")
             .then(response => {
                 dispatch(setRecomendation(response.data));
                 dispatch(setLoaded(true));
