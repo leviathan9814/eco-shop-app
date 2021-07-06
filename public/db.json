@@ -1,0 +1,186 @@
+{
+    "cargo":  [
+        {
+            "id": 1,
+            "imageUrl": ["https://static.tildacdn.com/tild3738-3463-4437-b838-316262346431/tilda_info_toothbrus.png", 
+                "https://static.tildacdn.com/tild3238-3232-4064-b133-646132636636/tilda_info_toothbrus.png", 
+                "https://static.tildacdn.com/tild3762-6665-4139-a433-383038646534/bamboo_set4.jpg", 
+                "https://static.tildacdn.com/tild6663-3233-4633-a532-626466323536/bamboo_set5.jpg", 
+                "https://static.tildacdn.com/tild3634-3336-4330-a637-323862656333/bamboo_set2jpg.jpg", 
+                "https://static.tildacdn.com/tild3737-3437-4762-b934-383732353137/bamboo_set3.jpg", 
+                "https://static.tildacdn.com/tild3465-3632-4232-b330-633263626639/konjac2.jpg"],
+            "name": "Бамбукова зубна щiтка",
+            "description": "60% нейлон 612 / 20% бамбукове волокно / 20% бамбукове вугiлля / кукурудзяне волокно",
+            "price": 60
+        },
+        {
+            "id": 2,
+            "imageUrl": ["https://static.tildacdn.com/tild6565-3839-4237-a362-393437353031/tilda_info_floss1.png",
+                "https://static.tildacdn.com/tild6363-3936-4438-b361-323463623766/tilda_floss2.jpg",
+                "https://static.tildacdn.com/tild3238-3264-4138-b264-333161326138/bamboo_set2jpg.jpg"],
+            "name": "Зубна нитка (флос)",
+            "description": "Нитка виготовлена з бамбукового вугiлля (чорна) та з кукурудзяного волокна (бiла). Також нитка вкрита рослинним воcком для легкого ковзання мiж зубами. Контейнер для флосу виготовлений з металу та скла, тож повнiстю пiддається переробцi. Металева дозуюча кришка дозволяє легко вiдривати нитку необхiдної довжини.",
+            "price": 110
+        },
+        {
+            "id": 3,
+            "imageUrl": ["https://static.tildacdn.com/tild3730-6130-4537-b035-623037333465/tilda_case1.jpg", 
+                "https://static.tildacdn.com/tild3130-3965-4633-b537-303662366138/tilda_case2.jpg",
+                "https://static.tildacdn.com/tild3065-3262-4664-b830-643839343135/14.jpg",
+                "https://static.tildacdn.com/tild6263-3166-4839-b065-336363343338/02.jpg",
+                "https://static.tildacdn.com/tild6531-3361-4335-b937-663131393137/03.jpg"],
+            "name": "Тревел кейс для зубної щiтки",
+            "description": "Зважаючи на те, що кейс виготовлений з натурального стебла бамбуку, дiаметр його може коливатися вiд 2,5 до 3 см, в залежностi вiд товщини конкретної рослини.",
+            "price": 140
+        },
+        {
+            "id": 4,
+            "imageUrl": ["https://static.tildacdn.com/tild3264-6432-4639-a439-626135653733/tilda_loofah1.jpg", 
+                "https://static.tildacdn.com/tild6630-3262-4163-b532-363138393331/tilda_loofah2.jpg",
+                "https://static.tildacdn.com/tild6538-3730-4131-b163-623366313566/tilda_loofah3.jpg"],
+            "name": "Люфа",
+            "description": "Люфа виготовлена з трав'янистої лiани сiмейства гарбузових.",
+            "price": 45
+        },
+        {
+            "id": 5,
+            "imageUrl": ["https://static.tildacdn.com/tild3331-6136-4330-a263-393335613231/tilda_info_konjac1.jpg", 
+                "https://static.tildacdn.com/tild6239-3531-4861-b532-363134616437/tilda_info_konjac2.jpg",
+                "https://static.tildacdn.com/tild6138-6230-4832-b037-616332363165/tilda_info_konjac3.jpg", 
+                "https://static.tildacdn.com/tild6639-3631-4161-a333-643831623431/konjac1.jpg"],
+            "name": "Спонж конняку",
+            "description": "Спонж виготовлений з корiння рослини Amorphophallus konjac - гiпоалергенний та повнiстю пiдлягає компостуванню.",
+            "price": 70
+        },
+        {
+            "id": 6,
+            "imageUrl": ["https://static.tildacdn.com/tild6561-3936-4137-b637-306330636635/tilda_buds1.jpg",
+                "https://static.tildacdn.com/tild6635-6437-4865-b365-383465623033/tilda_buds2.jpg",
+                "https://static.tildacdn.com/tild3664-3132-4162-b366-353037336438/tilda_buds3.jpg",
+                "https://static.tildacdn.com/tild3633-3635-4031-a364-393639343138/bamboo_set.jpg"],
+            "name": "Бамбуковi вушнi палички",
+            "description": "Бамбукова основа та бавовняна голiвка дозволяють легко компостувати палички пiсля використання.",
+            "price": 30
+        },
+        {
+            "id": 7,
+            "imageUrl": ["https://static.tildacdn.com/tild6536-3536-4132-b764-613832333031/tilda_mesh2.jpg", 
+                "https://static.tildacdn.com/tild3731-3264-4464-a134-376337663730/14.jpg",
+                "https://static.tildacdn.com/tild6533-3531-4736-a164-663434336438/04.jpg", 
+                "https://static.tildacdn.com/tild3131-6131-4832-a164-356564653261/05.jpg"],
+            "name": "Бавовняна торбинка",
+            "description": "Бавовна",
+            "price": 60
+        },
+        {
+            "id": 8,
+            "imageUrl": ["https://static.tildacdn.com/tild3734-3831-4039-b235-343030666233/color_bag_01.jpg",
+                "https://static.tildacdn.com/tild3963-6263-4564-a335-333939653466/color_bag_02.jpg",
+                "https://static.tildacdn.com/tild3638-3433-4732-b436-633735663565/color_bag_03.jpg",
+                "https://static.tildacdn.com/tild3765-3961-4334-b232-656166333137/color_bag_06.jpg"],
+            "name": "Торбинка унiверсальна",
+            "description": "Бавовна / льон",
+            "price": 75
+        }
+    ],
+    "assortment":  [
+        {
+            "id": 9,
+            "imageUrl": ["https://static.tildacdn.com/tild3538-3436-4132-a539-646136633966/straws_party_3_combo.png",
+                "https://static.tildacdn.com/tild3330-3539-4238-b161-366235313865/straws_party_3_combo.png",
+                "https://static.tildacdn.com/tild6462-3964-4637-a331-346231396332/08.jpg",
+                "https://static.tildacdn.com/tild3536-6633-4363-b933-306239663661/straws_01.jpg",
+                "https://static.tildacdn.com/tild3633-6561-4139-b639-663436363138/11.jpg"],
+            "name": "Сет Вечiрка",
+            "description": "Три металеві соломинки + йоршик + лляна торбинка у подарунок!",
+            "price": 140
+        },
+        {
+            "id": 10,
+            "imageUrl": ["https://static.tildacdn.com/tild3735-3032-4163-b935-323764353933/photo543404631903657.jpg",
+                "https://static.tildacdn.com/tild6362-3761-4232-b564-613636643730/photo543404631903657.jpg",
+                "https://static.tildacdn.com/tild6564-3961-4633-b236-636338636134/photo543404631903657.jpg",
+                "https://static.tildacdn.com/tild3334-3661-4530-b265-646236313966/photo543404631903657.jpg",
+                "https://static.tildacdn.com/tild6361-3536-4764-b534-623965393734/photo543404631903657.jpg"],
+            "name": "Твереза Панда Сет",
+            "description": "Бамбукові соломинки + йоршик + лляна торбинка у подарунок!",
+            "price": 140
+        },
+        {
+            "id": 11,
+            "imageUrl": ["https://static.tildacdn.com/tild3065-3262-4664-b830-643839343135/14.jpg",
+                "https://static.tildacdn.com/tild6531-3361-4335-b937-663131393137/03.jpg",
+                "https://static.tildacdn.com/tild6263-3166-4839-b065-336363343338/02.jpg",
+                "https://static.tildacdn.com/tild3633-3635-4031-a364-393639343138/bamboo_set.jpg"],
+            "name": "Тревел Сет",
+            "description": "Бамбукова зубна щітка + тревел кейс",
+            "price": 160
+        },
+        {
+            "id": 12,
+            "imageUrl": ["https://static.tildacdn.com/tild6163-3637-4762-b466-623135626530/16.jpg",
+                "https://static.tildacdn.com/tild3238-3232-4064-b133-646132636636/tilda_info_toothbrus.png",
+                "https://static.tildacdn.com/tild6663-3233-4633-a532-626466323536/bamboo_set5.jpg",
+                "https://static.tildacdn.com/tild3634-3336-4330-a637-323862656333/bamboo_set2jpg.jpg",
+                "https://static.tildacdn.com/tild3737-3437-4762-b934-383732353137/bamboo_set3.jpg",
+                "https://static.tildacdn.com/tild3465-3632-4232-b330-633263626639/konjac2.jpg"],
+            "name": "Рiчний запас зубних щiток",
+            "description": "Набір 4 шт.",
+            "price": 200
+        },
+        {
+            "id": 13,
+            "imageUrl": ["https://static.tildacdn.com/tild3135-3265-4665-b638-396335393136/toothpaste_01.png",
+                "https://static.tildacdn.com/tild6133-6433-4635-b965-393666653463/toothpaste_02.png",
+                "https://static.tildacdn.com/tild6434-6464-4931-a666-376636643935/toothpaste_03.png",
+                "https://static.tildacdn.com/tild3565-3634-4162-b936-363766626262/toothpaste_06.jpg"],
+            "name": "Натуральна зубна паста",
+            "description": "Натуральна зубна паста + Бамбукова зубна щітка + Зубна нитка (флос)",
+            "price": 155
+        },
+        {
+            "id": 14,
+            "imageUrl": ["https://static.tildacdn.com/tild6532-3839-4462-b636-366239646534/tilda_mesh5.jpg",
+                "https://static.tildacdn.com/tild3830-3934-4334-b631-393463613364/bag_mesh_03.png",
+                "https://static.tildacdn.com/tild6533-3531-4736-a164-663434336438/04.jpg",
+                "https://static.tildacdn.com/tild3131-6131-4832-a164-356564653261/05.jpg",
+                "https://static.tildacdn.com/tild6535-3930-4963-b635-323261323336/06.jpg",
+                "https://static.tildacdn.com/tild6466-3362-4939-a130-666632633030/07.jpg"],
+            "name": "Набiр бавовняних торбинок",
+            "description": "Три торбинки-сіточки розмірів S, M та L",
+            "price": 180
+        }
+    ],
+    "recomendation": [
+        {
+            "id": 1,
+            "imageUrl": "https://static.tildacdn.com/tild6163-3637-4762-b466-623135626530/16.jpg",
+            "name": "Рiчний запас зубних щiток",
+            "description": "Набір 4 шт.",
+            "price": 200
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://static.tildacdn.com/tild3135-3265-4665-b638-396335393136/toothpaste_01.png",
+            "name": "Натуральна зубна паста",
+            "description": "Натуральна зубна паста + Бамбукова зубна щітка + Зубна нитка (флос)",
+            "price": 155
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://static.tildacdn.com/tild3331-6136-4330-a263-393335613231/tilda_info_konjac1.jpg",
+            "name": "Спонж конняку",
+            "description": "",
+            "price": 70
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://static.tildacdn.com/tild3035-3066-4462-b665-646633323333/tilda_straw4.png",
+            "name": "Металева соломинка",
+            "description": "",
+            "price": 40
+        }
+    ],
+    "cart": []
+}
+  

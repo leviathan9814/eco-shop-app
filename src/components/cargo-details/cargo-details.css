@@ -1,0 +1,96 @@
+.cargo-details {
+    display: flex;
+    flex-direction: column;
+    background-color: #f7f7f7;
+    padding-bottom: 60px;
+}
+
+.back-shop {
+    display: block;
+    float: left;
+    margin: 50px;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+    /* margin-top: 50px */
+}
+
+.cargo-slider {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    width: 480px;
+}
+
+.cargo-description {
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+}
+
+.cargo-descr_name {
+    margin-bottom: 18px;
+    padding: 0;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 1.35;
+}
+
+.cargo-descr_price {
+    font-size: 18px;
+    line-height: 1.35;
+    font-weight: 600;
+}
+
+
+.cargo-descr_btn {
+    margin: 20px 0px 30px 0px;
+}
+
+.cart-btn {
+    width: 190px;
+    height: 45px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #047a8e;
+    text-transform: uppercase;
+    border: 0;
+    cursor: pointer;
+}
+
+.cart-btn:hover {
+    background-color:  #0394ad !important;
+}
+
+.cargo-descr_store {
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.55;
+    margin-bottom: 20px;
+}
+
+.cargo-descr_store span {
+    font-weight: bold;
+    line-height: 1.55;
+    font-size: 15px;
+}
+
+.cargo-descr_delivery {
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+}
+
+.cargo-descr_delivery a {
+    color: #047a8e !important;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.55;
+}

@@ -1,0 +1,31 @@
+.footer {
+    height: 8vh;
+    background-color: #4d4d4d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.footer img {
+    width: 30px;
+    padding-left: 10px;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.copyright {
+    color: #fff;
+}
+
+.scroll-up__button button {
+    background-color: transparent;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+}

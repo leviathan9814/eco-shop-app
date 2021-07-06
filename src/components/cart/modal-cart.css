@@ -1,0 +1,128 @@
+.modal {
+    margin: 10px auto;
+    width: 450px;
+    height: 630px;
+    background-color: #fff;
+    padding: 40px;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid #ebebeb;
+}
+
+.modal-title h2 {
+    font-size: 24px;
+    line-height: 1.35;
+    font-weight: 600;
+    color: #000000;
+}
+
+.modal-title span {
+    font-size: 24px;
+    line-height: 1.35;
+    font-weight: 600;
+    color: #000000;
+    cursor: pointer;
+}
+
+.modal-cart-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    /* padding: 15px 15px 0px 0px; */
+    border-bottom: 3px solid #ebebeb;
+}
+
+.modal-cart-sum {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.modal-cart-sum span {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+}
+
+.modal-cart-item_img {
+    width: 70px;
+}
+
+.modal-cart-item_img img {
+    width: 100%;
+}
+
+.modal-cart-item_title {
+    padding: 0;
+    margin: 0;
+    width: 165px;
+    height: 70px;
+}
+
+.modal-cart-item_title_name {
+    font-size: 16px;
+    font-weight: 600
+}
+
+.modal-cart-item_color {
+    opacity: 0.7;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.modal-form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.modal-form input {
+    width: 100%;
+    height: 36px;
+    margin-bottom: 35px;
+    color: #000000;
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-left: 0 !important;
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    padding: 0px 20px;
+    font-size: 16px;
+    line-height: 1.33;
+}
+
+.modal-block-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.modal-btn {
+    color: #ffffff;
+    background-color: #047a8e;
+    text-transform: uppercase;
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    border: 0;
+    cursor: pointer
+}
