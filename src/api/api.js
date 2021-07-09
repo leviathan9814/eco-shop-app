@@ -1,24 +1,20 @@
 import * as axios from "axios";
 
-const instance = axios.create({
-    baseURL: "http://localhost:3001/",
-    withCredentials: true,
-});
 
 export const shopAPI = {
     getCargo () {
-        return instance.get(`cargo/`)
+        return axios.get(`cargo/`)
     },
 
     getAssortment () {
-        return instance.get(`assortment/`)
+        return  axios.get(`assortment/`)
     },
 
     getCargoDetails(itemId) {
-        return instance.get(`cargo/${itemId}`)
+        return axios.get(`cargo/${itemId}`)
     },
 
     getAssortmentDetails(itemId) {
-        return instance.get(`assortment/${itemId}`)
+        return axios.get(`assortment/${itemId}`)
     }
 }
